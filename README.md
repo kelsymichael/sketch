@@ -2,4 +2,4 @@
 
 ---
 ## Overview
-Working through different basic designs to see if the benefits of this type of version control (i.e., github) is feasible
+Working through basic designs in order to test if I will be using Folio as an every day tool 
